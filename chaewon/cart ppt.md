@@ -1,37 +1,35 @@
 # 프로젝트 소개
 
-![image-20230823152929780](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823152929780.png)
+![ppt1](ppt1.png)
 
-![image-20230823152942106](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823152942106.png)
+![ppt2](ppt2.png)
 
-![image-20230823153017142](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153017142.png)
+![ppt3](ppt3.png)
 
-![image-20230823153024221](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153024221.png)
+![ppt4](ppt4.png)
 
-![image-20230823153032425](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153032425.png)
+![ppt5](ppt5.png)
 
-![image-20230823153044690](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153044690.png)
+![ppt6](ppt6.png)
 
-![image-20230823153052985](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153052985.png)
+![ppt7](ppt7.png)
 
-![image-20230823153101924](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153101924.png)
+![ppt8](ppt8.png)
 
-![image-20230823153108955](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153108955.png)
+![ppt9](ppt9.png)
 
-![image-20230823153116538](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153116538.png)
+![ppt10](ppt10.png)
 
-![image-20230823153124014](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153124014.png)
+![ppt11](ppt11.png)
 
-![image-20230823153130803](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153130803.png)
+![ppt12](ppt12.png)
 
-![image-20230823153139054](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153139054.png)
+![ppt13](ppt13.png)
 
-![image-20230823153145062](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153145062.png)
+![ppt14](ppt14.png)
 
-![image-20230823153157294](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153157294.png)
+![ppt15](ppt15.png)
 
-![image-20230823153205621](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153205621.png)
+![ppt16](ppt16.png)
 
-![image-20230823153210787](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153210787.png)
-
-![image-20230823153217569](C:\Users\PC-20\AppData\Roaming\Typora\typora-user-images\image-20230823153217569.png)
+![ppt17](ppt17.png)
